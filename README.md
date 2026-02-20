@@ -1,5 +1,5 @@
 # meu-estudo-python
-Aprendendo sobre a linguagem Python do zero, suas funções e inicializando projetos. 
+Aprendendo sobre a linguagem Python do zero, suas funções, realizando exercícios práticos e inicializando pequenos projetos. 
 
 ## Conteúdos
 
@@ -8,3 +8,4 @@ Aprendendo sobre a linguagem Python do zero, suas funções e inicializando proj
 - Funções
 - Listas e Dicionários
 - Projetos práticos
+- Exercícios
