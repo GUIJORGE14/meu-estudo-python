@@ -5,8 +5,8 @@
 # <nome da var> = <valor> 
 
 nome = "Guilherme" # variável do tipo string (texto), sempre entre aspas (""OU""")
-idade = 19         # var do tipo float (núm sem casas decimais)
-altura = 1.75      #var do tipo float (núm com casa decimal)
+idade = 19         # var do tipo int (núm inteiros)
+altura = 1.75      # var do tipo float (núm com casa decimal)
 dev = True         # var do tipo booleana, valores lógicos (true/false)  
 
 # print(f"Olá, {nome}! Você tem {idade} anos e mede {altura}m. É desenvolvedor? {dev}")
